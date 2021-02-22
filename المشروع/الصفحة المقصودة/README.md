@@ -20,3 +20,6 @@ Loop All Sections
 low el section mabyeen el 0 - 300 haynafze el class 
 getBoundingClientRect().top btgeeb el postion bet3 el element
 End Function To Get Scroll Position
+
+css 
+class activeLink
