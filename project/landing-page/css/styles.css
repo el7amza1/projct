@@ -9,8 +9,8 @@
 */
 
 .activeLink{
-    color:orange
-}
+    color:white;
+    background: blue;}
 
 /* ---- Base Rules ---- */
 body {
